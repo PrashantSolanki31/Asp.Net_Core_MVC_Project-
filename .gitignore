@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Secrets
+appsettings.Development.json
+appsettings.Production.json
+
+# Publish folder
+publish/
+
+# Logs
+*.log
+
+# User-specific files
+*.swp
+*.DS_Store
